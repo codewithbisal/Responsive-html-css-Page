@@ -3,6 +3,11 @@
 # Description:
 In this project, we developed a responsive web page using HTML, CSS, and jQuery libraries. The main focus of this project was to create a webpage that seamlessly adapts to different devices and screen sizes, ensuring an optimal user experience.
 
+# Demo:
+![image](https://github.com/codewithbisal/Responsive-html-css-Page/assets/134628968/68aa62a2-428f-4f22-910e-67ac65a72908)
+
+
+
 # Key Features:
 - Utilized HTML and CSS libraries to structure and style the webpage, providing a clean and visually appealing layout.
 - Leveraged the power of media query to enhance the responsiveness of the page. By employing jQuery, we were able to fine-tune the page's configuration for various devices, including browsers, tablets, and smartphones.
