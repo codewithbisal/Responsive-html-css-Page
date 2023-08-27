@@ -7,7 +7,7 @@ In this project, we developed a responsive web page using HTML, CSS, and jQuery 
 Watch the video demonstration:
 
 <video controls width="100%">
-  <source src=""C:\Users\bisal\Videos\Recording 2023-08-27 151951.mp4"" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1hkeOGmDIFqVDhfMGQN6uYW0_nCUaWYPv/view?usp=sharing" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
