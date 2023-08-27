@@ -8,7 +8,6 @@ Watch the video demonstration:
 
 <video controls width="100%">
   <source src="https://drive.google.com/file/d/1hkeOGmDIFqVDhfMGQN6uYW0_nCUaWYPv/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 # Key Features:
