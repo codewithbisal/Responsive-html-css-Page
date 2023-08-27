@@ -6,7 +6,7 @@ In this project, we developed a responsive web page using HTML, CSS, and jQuery 
 # Demo:
 Watch the video demonstration:
 
-<video controls width="100%">
+<video >
   <source src="https://drive.google.com/file/d/1hkeOGmDIFqVDhfMGQN6uYW0_nCUaWYPv/view?usp=sharing" type="video/mp4">
 </video>
 
