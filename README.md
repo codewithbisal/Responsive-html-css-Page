@@ -4,7 +4,7 @@
 In this project, we developed a responsive web page using HTML, CSS, and jQuery libraries. The main focus of this project was to create a webpage that seamlessly adapts to different devices and screen sizes, ensuring an optimal user experience.
 
 # Web-Page DEMO: 
-Link: https://responsive-page-html.netlify.app
+
 [![Screenshot](https://github.com/codewithbisal/Responsive-html-css-Page/blob/main/assets/134628968/7d13ad8d-3b12-4816-bbfd-bed253197330.png)]
 
 # Key Features:
